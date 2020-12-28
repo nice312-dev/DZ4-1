@@ -7,7 +7,7 @@ const val MAESTRO_FIX_COMISSION = 2_000
 const val VISA_FIX_COMISSION = 3_500
 const val VISA_PERCENT = 0.0075
 const val VK_DAY_LIMIT = 1_500_000
-const val VK_MONTH_LIMIT = 4
+const val VK_MONTH_LIMIT = 4_000_000
 
 fun main() {
     print("Введите тип вашей банковской карты: 1 - Mastercard/Maestro, 2 - Visa/Мир, 3 - VkPay: ")
